@@ -1,0 +1,11 @@
+.container{ width: 22rem;
+height: 22.5em;
+border: 3px solid black;
+margin: 1rem;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.image{width:21rem;}
+.title{border-bottom: 3px solid black;
+padding-bottom: 0.5rem};
